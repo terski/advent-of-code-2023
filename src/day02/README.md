@@ -6,4 +6,4 @@ Task description: [link](https://adventofcode.com/2023/day/2)
 
 ## Notes
 
-...
+- Repeating matches in a RegExp
