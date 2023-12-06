@@ -18,8 +18,8 @@ run({
     part1: {
         tests: [
             // {
-            //   input: ``,
-            //   expected: '',
+            //     input: ``,
+            //     expected: '',
             // },
         ],
         solution: part1,
@@ -27,8 +27,8 @@ run({
     part2: {
         tests: [
             // {
-            //   input: ``,
-            //   expected: '',
+            //     input: ``,
+            //     expected: '',
             // },
         ],
         solution: part2,
